@@ -1,5 +1,5 @@
 server:
-  port: 8052
+  port: 8010
   servlet:
     context-path: /courses
 
@@ -10,7 +10,7 @@ spring:
     ansi:
       enabled: always
   application:
-    name: ead-course
+    name: eadudm-course
 
 logging:
   level:
