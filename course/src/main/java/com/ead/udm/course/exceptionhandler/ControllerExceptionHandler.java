@@ -1,7 +1,5 @@
 package com.ead.udm.course.exceptionhandler;
 
-
-import com.ead.course.exceptions.*;
 import com.ead.udm.course.exceptions.*;
 import com.ead.udm.course.responses.ErrorResponse;
 import jakarta.validation.ConstraintViolationException;
